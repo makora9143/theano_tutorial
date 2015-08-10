@@ -1,6 +1,7 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
-
+import theano
+import theano.tensor as T
 
 import cPickle
 import gzip
